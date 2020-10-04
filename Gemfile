@@ -5,7 +5,7 @@ gem "hashie"
 gem "octokit", '~> 2.0'
 gem 'mail', '~> 2.6', '>= 2.6.3'
 
-gem 'awesome_print', :git => "value != nil"
+gem 'awesome_print', :git => ""
 
 gem "pry", :group => "development"
 
